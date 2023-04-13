@@ -1,4 +1,4 @@
-token: "LICHESS_API_TOKEN"   # lichess OAuth2 Token
+token: "lip_tK4NNKKzQcXN5DimVJTZ"   # lichess OAuth2 Token
 url: "https://lichess.org/"  # lichess base URL
 
 engine:                      # engine settings
@@ -29,7 +29,7 @@ challenge:                   # incoming challenges
 #   - racingKings
 #   - threeCheck
   time_controls:             # time controls to accept
-    - ultraBullet
+#   - ultraBullet
     - bullet
     - blitz
     - rapid
